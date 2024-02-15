@@ -1,0 +1,59 @@
+/* Контакты css */
+
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+header {
+	background-color: black;
+	height: 2cm;
+}
+
+a {
+	text-decoration: none;
+	color: white;
+}
+
+a:hover {
+	color: grey;
+}
+
+li {
+	display: inline;
+	margin-left: 20px;
+}
+
+ul {
+	padding: 30px;
+	margin: 0;
+}
+
+
+
+#li {
+	color: white;
+}
+
+div {
+	color: grey;
+}
+
+h1 {
+	color: black;
+	padding: 10px;
+	margin: 0;
+}
+
+#bl {
+	background-color: blue;
+	border-color: black;
+	border-radius: 10px;
+}
+
+.bl {
+	color: white;
+	margin: 90px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
